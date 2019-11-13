@@ -1,0 +1,7 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 2\ProjecetdRaisesInteractive\ProjecetdRaisesInteractive\obj\Debug\ProjecetdRaisesInteractive.csprojAssemblyReference.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 2\ProjecetdRaisesInteractive\ProjecetdRaisesInteractive\obj\Debug\ProjecetdRaisesInteractive.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 2\ProjecetdRaisesInteractive\ProjecetdRaisesInteractive\bin\Debug\ProjecetdRaisesInteractive.exe.config
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 2\ProjecetdRaisesInteractive\ProjecetdRaisesInteractive\bin\Debug\ProjecetdRaisesInteractive.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 2\ProjecetdRaisesInteractive\ProjecetdRaisesInteractive\bin\Debug\ProjecetdRaisesInteractive.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 2\ProjecetdRaisesInteractive\ProjecetdRaisesInteractive\obj\Debug\ProjecetdRaisesInteractive.exe
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 2\ProjecetdRaisesInteractive\ProjecetdRaisesInteractive\obj\Debug\ProjecetdRaisesInteractive.pdb
